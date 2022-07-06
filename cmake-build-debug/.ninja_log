@@ -1,0 +1,7 @@
+# ninja log v5
+44	321	6788317227124536	CMakeFiles/FirstC.dir/FirstC3.cpp.obj	f84cfee8ee44c6c2
+21	344	6788317227204533	CMakeFiles/FirstC.dir/FirstC1.cpp.obj	6508fd627c7776fb
+322	544	6788317229324523	CMakeFiles/FirstC.dir/FirstC2.cpp.obj	2da935fbcc22e943
+345	565	6788317229464575	CMakeFiles/FirstC.dir/FirstC5.cpp.obj	fd240b25c18cca35
+2	969	6788317233724481	CMakeFiles/FirstC.dir/main.cpp.obj	39aa8ea6fe97a08c
+973	1374	6788317237664491	FirstC.exe	a508f9101b3ac54a
