@@ -1,7 +1,8 @@
 # ninja log v5
-44	321	6788317227124536	CMakeFiles/FirstC.dir/FirstC3.cpp.obj	f84cfee8ee44c6c2
 322	544	6788317229324523	CMakeFiles/FirstC.dir/FirstC2.cpp.obj	2da935fbcc22e943
+44	321	6788317227124536	CMakeFiles/FirstC.dir/FirstC3.cpp.obj	f84cfee8ee44c6c2
 20	343	6789659114705830	CMakeFiles/FirstC.dir/FirstC1.cpp.obj	6508fd627c7776fb
 345	565	6788317229464575	CMakeFiles/FirstC.dir/FirstC5.cpp.obj	fd240b25c18cca35
 9	997	6789203288212456	CMakeFiles/FirstC.dir/main.cpp.obj	39aa8ea6fe97a08c
 344	813	6789659119385807	FirstC.exe	a508f9101b3ac54a
+16	1120	6790628024148073	build.ninja	31c1af74ac367e4b
