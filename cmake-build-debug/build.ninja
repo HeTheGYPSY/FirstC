@@ -79,6 +79,12 @@ build CMakeFiles/FirstC.dir/FirstC5.cpp.obj: CXX_COMPILER__FirstC_Debug C$:/User
   OBJECT_DIR = CMakeFiles\FirstC.dir
   OBJECT_FILE_DIR = CMakeFiles\FirstC.dir
 
+build CMakeFiles/FirstC.dir/firstc8.cpp.obj: CXX_COMPILER__FirstC_Debug C$:/Users/User/CLionProjects/FirstC/firstc8.cpp || cmake_object_order_depends_target_FirstC
+  DEP_FILE = CMakeFiles\FirstC.dir\firstc8.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\FirstC.dir
+  OBJECT_FILE_DIR = CMakeFiles\FirstC.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target FirstC
@@ -87,7 +93,7 @@ build CMakeFiles/FirstC.dir/FirstC5.cpp.obj: CXX_COMPILER__FirstC_Debug C$:/User
 #############################################
 # Link the executable FirstC.exe
 
-build FirstC.exe: CXX_EXECUTABLE_LINKER__FirstC_Debug CMakeFiles/FirstC.dir/main.cpp.obj CMakeFiles/FirstC.dir/FirstC1.cpp.obj CMakeFiles/FirstC.dir/FirstC2.cpp.obj CMakeFiles/FirstC.dir/FirstC3.cpp.obj CMakeFiles/FirstC.dir/FirstC5.cpp.obj
+build FirstC.exe: CXX_EXECUTABLE_LINKER__FirstC_Debug CMakeFiles/FirstC.dir/main.cpp.obj CMakeFiles/FirstC.dir/FirstC1.cpp.obj CMakeFiles/FirstC.dir/FirstC2.cpp.obj CMakeFiles/FirstC.dir/FirstC3.cpp.obj CMakeFiles/FirstC.dir/FirstC5.cpp.obj CMakeFiles/FirstC.dir/firstc8.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\FirstC.dir
