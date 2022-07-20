@@ -1,8 +1,9 @@
-//
-// Created by User on 7/6/2022.
-//
+#include <cstdio>
 
-#ifndef FIRSTC_FIRSTC4_H
-#define FIRSTC_FIRSTC4_H
+int main()
+{
+    /* my first program in C */
+    printf("Hello, World! \n");
 
-#endif //FIRSTC_FIRSTC4_H
+    return 0;
+}
